@@ -1,0 +1,9 @@
+.user-container {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.user-container .imagem {
+    width: 100px;
+    border-radius: 50%;
+    aspect-ratio: 1;
+}
